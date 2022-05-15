@@ -30,5 +30,5 @@ header:
       # @end locale config
     url: /archive.html
 
-  - titles: Github
+  - title: Github
     url: https://github.com/CoolandHot
