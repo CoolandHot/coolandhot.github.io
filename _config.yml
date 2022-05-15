@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : Huang Huan
   url       : https://coolandhot.github.io/cv-ver2
-  avatar    : # path or url of avatar image (square)
+  avatar    : https://s2.loli.net/2022/05/15/LvN57IQWazeknCg.png
   bio       : I am a sophisticated person.
   email     : coolandhot2006@163.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
